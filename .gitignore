@@ -1,0 +1,21 @@
+# Dependencies & build
+**/node_modules/
+**/dist/
+**/src-tauri/target/
+**/.pnpm-store/
+
+# Local / OS
+*.db
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+_doc_extract.txt
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key

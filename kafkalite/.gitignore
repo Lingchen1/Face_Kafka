@@ -1,0 +1,5 @@
+node_modules/
+dist/
+src-tauri/target/
+*.db
+_doc_extract.txt
